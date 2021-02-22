@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/leungkinghin/cors-proxy/issues"
   },
-  "homepage": "https://github.com/leungkinghin/cors-proxy#readme"
+  "homepage": "https://github.com/leungkinghin/cors-proxy#readme",
+  "dependencies": {
+    "js-yaml": "^4.0.0",
+    "request": "^2.88.2"
+  }
 }

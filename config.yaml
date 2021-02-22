@@ -1,0 +1,4 @@
+host:
+  url: 'https://joke-api-strict-cors.appspot.com/random_joke'
+proxy:
+  port: 8080
